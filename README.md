@@ -1,2 +1,2 @@
 # elixir_learning
-Elixir勉強用
+個人的なElixir勉強用です。
