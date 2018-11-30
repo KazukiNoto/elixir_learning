@@ -23,4 +23,5 @@ hello.ex
 ```
 elixirc hello.ex
 ```
+正常にコンパイルされれば、Elixir.Hello.beamが生成されます
 
