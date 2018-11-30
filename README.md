@@ -4,6 +4,8 @@
 ## hello
 ElixirのHelloWorld
 
+## calc
+簡単な計算の方法
 
 ## dockerで環境作成
 
